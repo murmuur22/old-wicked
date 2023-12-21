@@ -1,0 +1,32 @@
+export default [
+    {
+        filename: 'wicked_earth.png',
+        enabled: true,
+        src: '/assets/projects/stickers/eddie.png',
+        modified: 'April 12, 2023 at 12:16',
+        dimensions: '2000 x 2000',
+        size: '447,985 bytes (451 KB)',
+        kind: 'PNG Image',
+        index: '0',
+    },
+    {
+        filename: 'holding_gun.jpg',
+        enabled: true,
+        src: '/assets/projects/stickers/holding_gun.png',
+        modified: 'April 12, 2023 at 12:18',
+        dimensions: '2000 x 2000',
+        size: '122,551 bytes (123 KB)',
+        kind: 'PNG Image',
+        index: '1',
+    },
+    {
+        filename: 'jacob.jpg',
+        enabled: true,
+        src: '/assets/projects/stickers/jacob.png',
+        modified: 'April 12, 2023 at 12:16',
+        dimensions: '2000 x 2000',
+        size: '2,024,822 bytes (2 MB)',
+        kind: 'JPG Image',
+        index: '2',
+    },
+]
